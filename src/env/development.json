@@ -1,0 +1,10 @@
+{
+    "PORT_VALUE": 3000,
+    "DB_URL": "mongodb://sritest1:sritest1@ds263791.mlab.com:63791/pocdb",
+    "LINKEDIN_CB_URL": "http://localhost:3000/linkedinLogin/cb",
+    "LINKEDIN_REDIRECT_URL": "http://localhost:3001/pre-login/linkedinLogin/",
+    "LINKEDIN_FAIL_URL": "http://localhost:3001/pre-login/linkedinLoginCancelled",
+    "APP_URL": "http://localhost:3001",
+
+    "URL":"http://localhost:3000"
+}
